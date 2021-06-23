@@ -12,7 +12,7 @@ body {
     left: -250px;
     width: 250px;
     height: 100%;
-    background:rgb(77, 1, 70,0.8);
+    background:rgba(23, 38, 109, 0.8);
     transition: all .5s ease;
 }
 .sidebar header {
@@ -20,7 +20,7 @@ body {
     color: white;
     text-align: center;
     line-height: 70px;
-    background: #3a023a;
+    background: #0e023a;
     user-select: none;
 }
 .sidebar ul a {
@@ -48,7 +48,7 @@ ul li:hover a {
 label #btn, label #cancel {
     position: absolute;
     cursor: pointer;
-    background: #20011c;
+    background: #85a1d6;
     border-radius: 3px;
 }
 label #btn {
@@ -63,7 +63,7 @@ label #cancel {
     left: -195px;
     top: 17px;
     font-size: 30px;
-    color: #570a46;
+    color: #154788;
     padding: 4px 9px;
     transition: all .5s ease;
 }
@@ -85,7 +85,7 @@ label #cancel {
 } */
 
 section{
-    background-image: url(./images/startup-594090_1920.jpg);
+    background-image: url(./images/milan-italy-vittorio-emanuele-WBSHOPPING0917.jpg);
     background-position:center ;
     background-size: cover;
     height: 100vh;
